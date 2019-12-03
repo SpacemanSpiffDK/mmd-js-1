@@ -6,7 +6,7 @@ function alertMe(event) {
     alert('You are alerted!');
 }
 
-// WRITING DIRECTLY INTO ELEMENT STYLE ATTRIBUTE IS SO WRONG!!!
+// WRITING DIRECTLY INTO ELEMENT STYLE ATTRIBUTE IS NOT THE MOST PRODUCTIVE
 
 // function showBox(event) {
 //     event.preventDefault();
@@ -43,7 +43,7 @@ function alertMe(event) {
 // }
 
 
-// Let's do this the right way
+// Let's do this the right way (Can also be solved by using ASYNC DEFER)
 // -------------------------------------------------------------------------------
 // window.onload = function() {
 
