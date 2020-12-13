@@ -1,5 +1,5 @@
 // JS by Dan Høegh
-// UCN MMD 2018
+// UCN MMD 2020
 
 function alertMe() {
     alert('You are alerted!');
